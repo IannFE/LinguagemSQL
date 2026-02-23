@@ -25,7 +25,7 @@ SQL é a linguagem que permite conversar com bancos de dados.
 
 Aprender SQL é essencial para qualquer profissional que trabalhe com dados.
 
-🚀 Principais motivos:
+ Principais motivos:
 
 Permite extrair informações estratégicas dos dados
 
@@ -43,7 +43,7 @@ Business Intelligence
 
 Desenvolvimento Backend
 
-💼 SQL no mercado
+ SQL no mercado
 
 SQL é uma das linguagens mais exigidas em vagas de tecnologia e dados.
 É utilizada em ferramentas como:
@@ -74,7 +74,7 @@ Oracle
 
 O SGBD funciona como uma interface entre o usuário e o banco de dados.
 
-🧩 3. Conceitos Fundamentais
+ 3. Conceitos Fundamentais
 3.1 Banco de Dados
 
 Um conjunto organizado de dados armazenados eletronicamente.
